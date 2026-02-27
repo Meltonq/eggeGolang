@@ -1,3 +1,3 @@
-module github.com/ТВОЙ_НИК/hello-golang-egg
+module github.com/Meltonq/eggeGolang
 
 go 1.22
